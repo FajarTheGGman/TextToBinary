@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+apt-get install nodejs
+npm install --save colors readline request
+node binary.ts
