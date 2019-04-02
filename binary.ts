@@ -1,3 +1,5 @@
+// Copyright© 2019 by Fajar Firdaus
+// Please Don't Recode My Project 
 var req = require("request");
 var war = require("colors");
 var p = require("readline");
